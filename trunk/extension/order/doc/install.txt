@@ -1,0 +1,9 @@
+-----------------
+ORDER - Extension
+-----------------
+
+1. Activate the extension in the override site.ini
+2. Add Roles for the affected members
+3. Change the admin order list for invoice view
+4. Include the view into user account view
+
