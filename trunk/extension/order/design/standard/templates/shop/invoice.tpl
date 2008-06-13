@@ -7,8 +7,8 @@
          symbol = $currency.symbol}
 {/if}
 
-{include uri="design:shop/invoicepart.tpl" packingslip=0}
+{include uri="design:shop/invoicepart.tpl" packingslip=false()}
 {if $includepackingslip}
     <p style="clear:both;page-break-after:always">&nbsp;</p>
-    {include uri="design:shop/invoicepart.tpl"  packingslip=1}
+    {include uri="design:shop/invoicepart.tpl" packingslip=true()}
 {/if}
