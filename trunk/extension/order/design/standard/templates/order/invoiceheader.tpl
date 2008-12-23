@@ -5,7 +5,7 @@
     {ezini( 'InvoiceSettings', 'CompanyAddress', 'order.ini'  )}<br />
     {ezini( 'InvoiceSettings', 'CompanyAddress2', 'order.ini'  )}<br />
     {ezini( 'InvoiceSettings', 'CompanyCountry', 'order.ini'  )}<br />
-    {'Phone'|i18n( 'extension/order/invoice' )}: {ezini( 'InvoiceSettings', 'CompanyPhone', 'order.ini'  )}<br />
-    {'Website'|i18n( 'extension/order/invoice' )}: {ezini( 'InvoiceSettings', 'CompanyWebsite', 'order.ini'  )}<br />
+    {'Phone'|i18n( 'extension/xrowecommerce' )}: {ezini( 'InvoiceSettings', 'CompanyPhone', 'order.ini'  )}<br />
+    {'Website'|i18n( 'extension/xrowecommerce' )}: {ezini( 'InvoiceSettings', 'CompanyWebsite', 'order.ini'  )}<br />
 </p>
 </div>
